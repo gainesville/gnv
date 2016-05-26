@@ -47,7 +47,7 @@ en:
   #Get Connected Page Strings
   #===========================#
   allabout: "Connection is all about people."
-  connectmain: "When an event occurs, we come together to help each other. Being connected is about knowing your neighbors, saying hi to the regulars at the local market, and staying in touch with family and friends—both digitally and in person."
+  connectmain: "When an event occurs, we come together to help each other. Being connected is about knowing your neighbors, saying hi to the regulars at your local market, and staying in touch with family and friends—both digitally and in person."
   networks: "Connect through your digital networks."
   inevent: "In the event of an emergency, we all turn to our existing tools and networks—many of which are digital. Think about your connections and the online communities you’re already a part of, so you can share updates and information when something happens."
   learnabout: "Learn about SafeGNV."
@@ -107,7 +107,7 @@ en:
   partner1_description: "provides a variety of trainings including first aid, CPR, and how to prepare for emergencies."
   #partner 2:
   partner2: "Alachua SERT"
-  partner2_description: "offers resources that will teach you how to prepare, organize, and create an emergency response plan."
+  partner2_description: "offers resources that teach you how to prepare, organize, and create an emergency response plan."
   #partner 3:
   partner3: "Alachua County CERT"
   partner3_description: "teaches residents how to care for themselves, their families, and their neighbors in an emergency."
@@ -262,9 +262,9 @@ en:
   our_mission: "Our mission is to enable the people of Gainesville to get connected with real-time information about events and emergencies. SafeGNV was created by the City of Gainesville, with the belief that the best way to do this is to get connected to each other, share resources, and put the citizen at the center of our thinking."
   who: "Who"
   who_p1: "For Gainesville, by Gainesville."
-  who_p2: "Gainesville is like no other place – and this platform is tailored to the particular quirks, context and people that make up our city."
+  who_p2: "Gainesville is like no other place, and this platform is tailored to the particular quirks, context and people that make up our city."
   what: "What"
-  what_p1: "A citizen-centered vision of connecting people with real time information. We do this by providing tools and information that fit into your daily life through SafeGNV."
+  what_p1: "A citizen-centered vision of connecting people with real-time information. We do this by providing tools and information that fit into your daily life through SafeGNV."
   what_p2: "SafeGNV is not a new social network. It’s a platform designed to plug into your existing networks – whether social or digital."
   why: "Why"
   why_p1: "A little now will mean a lot later; connecting with your network, downloading an app, or watching a video is the first step towards being better informed."
@@ -281,7 +281,7 @@ en:
   #===========================#
   em_home_title: "SafeGNV - Real-time Information"
   in_an_emergency: "This is your real-time hub regarding critical community information."
-  you_will_find: "You’ll find official updates, partner updates, traffic information, and an interactive map to navigate city resources. Tour this SafeGNV to better understand how to use it during a situation or an emergency."
+  you_will_find: "You’ll find official updates, partner updates, traffic information, and an interactive map to navigate community resources. Tour this SafeGNV to better understand how to use it during a situation or an emergency."
   map_guide: "Map Guide"
   expand_map: "Expand Map"
   official_updates: "Official Updates"
@@ -303,7 +303,7 @@ en:
   partner_updates_tour: "Partner Updates"
   partner_updates_what: "A live stream of updates from Twitter -- so you can get an up-to-date picture of what’s going on."
   four_of_five: "4 of 5"
-  transportation_alerts: "Transportation alerts"
+  transportation_alerts: "Transportation Alerts"
   transportation_alerts_what: "Public transportation status updates -- so you can navigate the city quickly, easily, and safely."
   five_of_five: "5 of 5"
   finish: "Finish"
