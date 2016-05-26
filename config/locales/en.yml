@@ -125,7 +125,7 @@ en:
   useful_why: "These items represent things that many people want in an emergency—but don’t always think of. Stash them away, and you’ll get through the first 72 hours more easily."
   personal_why: "In addition to the standard supplies, certain things will help you—and only you—manage during an emergency. Set aside a few items that will give you and your family extra comfort."
   sharing_is: "Sharing is caring."
-  sharing_why: "Emergencies are opportunities to come together and support those around you. What items would you’d like to share? Sharing drinks, singing songs, or having a meal are even more meaningful in the days after an emergency."
+  sharing_why: "Emergencies are opportunities to come together and support those around you. What items would you like to share? Sharing drinks, singing songs, or having a meal are even more meaningful in the days after an emergency."
 
 
   #===========================#
@@ -139,11 +139,11 @@ en:
   first_aid: "First aid kit"
   first_aid_why: "You might need to be able to patch up small scrapes until help arrives. Channel your inner Scout and keep a first aid kit on hand."
   flash_light: "Flashlight and extra batteries"
-  flash_light_why: "While candles are great for ambience, a good flashlight is invaluable for navigating if power is out. Simply put: it buys you freedom."
+  flash_light_why: "While candles are great for ambience, a good flashlight is invaluable for navigating if your power is out."
   fire_extinguisher: "Fire extinguisher"
   fire_extinguisher_why: "You didn't start the fire. But you can help extinguish it. Stash a fire extinguisher with your supplies so that you can stay safe."
   manual_can_opener: "Manual can opener"
-  manual_can_opener_why: "Just like when camping, in an emergency an old fashioned can opener is just the ticket. Impress your friends with your canned culinary choices."
+  manual_can_opener_why: "Just like when you’re camping, in an emergency an old fashioned can opener is just the ticket. Impress your friends with your canned culinary choices."
   non_perishable_food: "Non-perishable food"
   non_perishable_food_why: "Next time you're at the grocery store, add extra shelf-stable foods (that you like to eat!) to your basket. We recommend 3 days of food per person."
 
@@ -151,7 +151,7 @@ en:
   warm_clothes: "Warm clothes and sturdy shoes"
   warm_clothes_why: "You never know when an emergency might happen — or what you might (or might not) be wearing. Be ready for the elements by setting aside warm clothes and walking shoes."
   radio_battery: "Radio (battery operated or hand crank)"
-  radio_battery_why: "Feeling safe starts with knowing what's going on—so tune into the radio. Check 740AM for live updates—and your favorite radio station to pass the time."
+  radio_battery_why: "Feeling safe starts with knowing what's going on—so tune into the radio. Check 540AM for live updates—and your favorite radio station to pass the time."
   cash_on_hand: "Cash"
   cash_on_hand_why: "In an emergency, credit cards might not work, and cash becomes important. Protect your purchasing power by stashing small bills."
   sleeping_bag: "Sleeping bag or blankets"
@@ -169,7 +169,7 @@ en:
   personal_hygiene: "Personal hygiene & sanitation items"
   personal_hygiene_why: "Toilet paper, feminine supplies, hand sanitizer, a toothbrush, soap, unscented bleach, and heavy duty garbage bags are a good place to start."
   personal_documents: "Personal documents"
-  personal_documents_why: "Upload copies of your driver's license, passport, leases, titles, and contact list to the cloud. Protect your assets, by going digital. Or make photocopies."
+  personal_documents_why: "Upload copies of your driver's license, passport, leases, titles, and contact list to the cloud. Protect your assets by going digital, or make photocopies."
   childrens_toys: "Children's toys and games"
   childrens_toys_why: "What unique items would make your family feel better in an emergency? Favorite games? Special toys? Little things can make a big difference."
   pet_items: "Pet items"
@@ -209,7 +209,7 @@ en:
   #Make a Plan Page
   #===========================#
   make_a_plan_with_your_people: "Make a plan with your people."
-  emergency_planning: "Emergency planning can feel overwhelming. We’ve broken it down into simple steps and provided tools that will make it feel do-able. The same connections that are important in everyday life—with friends, family, neighbors, and communities—are even more crucial in a crisis."
+  emergency_planning: "Emergency planning can feel overwhelming. We’ve broken it down into simple steps and provided tools that will make it feel doable. The same connections that are important in everyday life—with friends, family, neighbors, and communities — are even more crucial in a crisis."
   set_up: "Set up your meet up."
   first_set_up: "First, make a plan with your inner circle of friends, relatives, or immediate family. That way, you will each know what to do in an emergency."
   what_basics: "What basics does your plan need to include?"
@@ -242,7 +242,7 @@ en:
   #link1: https://www.ready.gov/utility-shut-safety
   #link2: https://www.ready.gov/food
   during_3_title: "Save a Supply of Water."
-  during_3_description_html: "Ensure a  <a href='%{link}' target='_blank'>supply of water</a> for sanitary purposes such as cleaning and flushing toilets. Fill the bathtub and large containers with water."
+  during_3_description_html: "Ensure you have a <a href='%{link}' target='_blank'>supply of water</a> for sanitary purposes such as cleaning and flushing toilets. Fill the bathtub and large containers with water."
   #during_3_link: https://www.ready.gov/managing-water
   after_1_title: "Find your family."
   after_1_description_html: "If you are separated from your family, use your  <a href='%{link}' target='_blank'>family communications plan</a>, contact the American Red Cross (ARC) at 1-800-RED-CROSS/1-800-733-2767 or visit the ARC Safe and Well site: <a href='%{link}' target='_blank'>www.safeandwell.org</a>."
