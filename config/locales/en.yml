@@ -79,9 +79,14 @@ en:
   use_nextdoor_now: "Sign up for Nextdoor to meet your neighbors and share information that may impact your neighborhood."
   use_nextdoor_emergency: "Log onto Nextdoor to share local information and resources with people who live near you."
   #AirBnB
-  use_airbnb: "Sign up for Airbnb"
-  use_airbnb_now: "Create an AirBnB proﬁle so you are ready to ﬁnd or share a place to stay if anything happens."
-  use_airbnb_emergency: "Find a place to stay, or share your place with those in need."
+  # use_airbnb: "Sign up for Airbnb"
+  # use_airbnb_now: "Create an AirBnB proﬁle so you are ready to ﬁnd or share a place to stay if anything happens."
+  # use_airbnb_emergency: "Find a place to stay, or share your place with those in need."
+  #311
+  use_311: "Make the city better with 311GNV"
+  three_link: "311GNV"
+  use_311_now_html: "Start using %{three_link} now to help make Gainesville better by reporting issues such as potholes or damaged street signs."
+  use_311_emergency: "Help the city learn about and respond to needed repairs faster than would be possible without your help."
   #Text Updates
   use_txt_updates: "Sign up for updates from CodeRED"
   why_txt_updates: "Connect your phone to Alachua County CodeRED."

@@ -123,8 +123,11 @@
 	li.facebook {
 		@include icon(#FFF,3.2rem,$facebook-icn,$highlight,0,0);
 	}
-	li.airbnb {
-		@include icon(#FFF,3.2rem,$airbnb-icn,$highlight,0,0);
+	// li.airbnb {
+	// 	@include icon(#FFF,3.2rem,$airbnb-icn,$highlight,0,0);
+	// }
+	li.three {
+		@include icon(#FFF,3.2rem,$three-icn,$highlight,0,0);
 	}
 	li.twitter {
 		@include icon(#FFF,3.2rem,$twitter-icn,$highlight,0,0);

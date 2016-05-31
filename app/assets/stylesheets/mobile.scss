@@ -45,7 +45,7 @@ $mobile-padding: 20px;
   .home-updates-wrapper {
     display: none;
   }
-  
+
   .mobile-twitter-option {
     @include row();
     background-color: $highlight;
@@ -70,14 +70,14 @@ $mobile-padding: 20px;
   .connect .explain-text p, .things .explain-text {
     padding-left: 1rem;
   }
-  
+
   .image-credits {
     padding-left: 20px;
   }
   .mobile-hidden {
     display: none;
   }
-  
+
   .main-container.home {
     margin-left: 0;
   }
@@ -606,6 +606,7 @@ $mobile-padding: 20px;
 			&.drive:before,
 			&.nextdoor:before,
 			&.airbnb:before,
+			&.three:before,
 			&.txt_updates:before, {
 				font-size: 2rem;
 				width: 57px;
@@ -626,6 +627,7 @@ $mobile-padding: 20px;
 		.drive h3,
 		.nextdoor h3,
 		.airbnb h3,
+		.three h3,
 		.txt_updates h3 {
 			padding-top: 72px;
 		}

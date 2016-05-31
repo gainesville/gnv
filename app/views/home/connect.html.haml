@@ -53,6 +53,20 @@
             =t(:in_an_emergency_heading)
           =t(:use_twitter_emergency_html, twitter_tag: link_to(t('twitter_tag'), 'https://twitter.com/search?f=tweets&q=%23safeGNV&src=typd', target: :blank))
 
+      %li.three
+        %h3
+          =t(:use_311)
+        %p
+          %strong
+            =t(:now)
+          =t(:use_311_now_html, three_link: link_to(t('three_link'), 'http://www.cityofgainesville.org/openGNV/311GNV.aspx', target: :blank))
+        %p
+          %strong
+            =t(:in_an_emergency_heading)
+            <br/>
+          =t(:use_311_emergency)
+
+
       %li.drive
         %h3
           =t(:use_cloud)
@@ -79,18 +93,18 @@
             <br/>
           =t(:use_nextdoor_emergency)
 
-      %li.airbnb
-        %h3
-          =t(:use_airbnb)
-        %p
-          %strong
-            =t(:now)
-          =t(:use_airbnb_now)
-        %p
-          %strong
-            =t(:in_an_emergency_heading)
-            <br/>
-          =t(:use_airbnb_emergency)
+      -# %li.airbnb
+      -#   %h3
+      -#     =t(:use_airbnb)
+      -#   %p
+      -#     %strong
+      -#       =t(:now)
+      -#     =t(:use_airbnb_now)
+      -#   %p
+      -#     %strong
+      -#       =t(:in_an_emergency_heading)
+      -#       <br/>
+      -#     =t(:use_airbnb_emergency)
 
       %li.txt_updates
         %h3
