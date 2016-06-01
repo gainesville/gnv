@@ -119,12 +119,15 @@
 
 .questions {
   @include row();
-  padding: 0 30px 20px 30px;
+  padding: 0 12rem 20px 30px;
 
 	h2 {
 	  color: $highlight;
 	  line-height: 2.4rem;
-	  margin: 3.75rem 0 1rem;
+	  margin-top: 3.75rem;
+    margin-right: 0;
+    margin-bottom: 1rem;
+    margin-left: 0px;
 	  text-shadow: 0 0 0px rgba(0, 0, 0, 0.15);
 	}
 
