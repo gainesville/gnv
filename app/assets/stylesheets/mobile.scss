@@ -2086,7 +2086,7 @@ $mobile-padding: 20px;
 	}
 
 	#mobile-updates,
-	#mobile-maps,
+	// #mobile-maps,
 	#mobile-quick-guide {
 		display: none;
 	}
@@ -2094,7 +2094,7 @@ $mobile-padding: 20px;
 	#mobile-updates.active,
 	#mobile-maps.active,
 	#mobile-quick-guide.active {
-		display: block;
+		// display: block;
 		padding-top: 44px;
 	}
 
