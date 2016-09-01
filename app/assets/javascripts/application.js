@@ -16,7 +16,7 @@
 //= require modernizr/modernizr
 //= require jquery.browser.js
 //= require jquery.mobile-menu.js
-//= require jquery.bxslider.min.js
+//= require jquery.bxslider.js
 //= require raphael-min.js
 //= require jquery.matchHeight-min.js
 //= require sf72
