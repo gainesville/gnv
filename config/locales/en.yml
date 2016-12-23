@@ -142,19 +142,18 @@ en:
   #===========================#
   #Supply Items
   #===========================#
-  fyi_supply: "None of these views exist yet"
 
-  # #Essentials
+# #Essentials
   water: "Water"
   water_why: "Everyone enjoys a tall drink of water. Stay hydrated by gathering one gallon per person, per day."
   first_aid: "First aid kit"
   first_aid_why: "You might need to be able to patch up small scrapes until help arrives. Channel your inner Scout and keep a first aid kit on hand."
-  flash_light: "Flashlight and extra batteries"
-  flash_light_why: "While candles are great for ambience, a good flashlight is invaluable for navigating if your power is out."
+  flash_light: "Flash light and extra batteries"
+  flash_light_why: "While candles are great for ambience, a good flashlight is invaluable for navigating if power is out. Simply put: it buys you freedom."
   fire_extinguisher: "Fire extinguisher"
   fire_extinguisher_why: "You didn't start the fire. But you can help extinguish it. Stash a fire extinguisher with your supplies so that you can stay safe."
   manual_can_opener: "Manual can opener"
-  manual_can_opener_why: "Just like when you’re camping, in an emergency an old fashioned can opener is just the ticket. Impress your friends with your canned culinary choices."
+  manual_can_opener_why: "Just like when camping, in an emergency an old fashioned can opener is just the ticket. Impress your friends with your canned culinary choices."
   non_perishable_food: "Non-perishable food"
   non_perishable_food_why: "Next time you're at the grocery store, add extra shelf-stable foods (that you like to eat!) to your basket. We recommend 3 days of food per person."
 
@@ -162,7 +161,7 @@ en:
   warm_clothes: "Warm clothes and sturdy shoes"
   warm_clothes_why: "You never know when an emergency might happen — or what you might (or might not) be wearing. Be ready for the elements by setting aside warm clothes and walking shoes."
   radio_battery: "Radio (battery operated or hand crank)"
-  radio_battery_why: "Feeling safe starts with knowing what's going on—so tune into the radio. Check 540AM for live updates—and your favorite radio station to pass the time."
+  radio_battery_why: "Feeling safe starts with knowing what's going on—so tune into the radio. Check 740AM for live updates—and your favorite radio station to pass the time."
   cash_on_hand: "Cash"
   cash_on_hand_why: "In an emergency, credit cards might not work, and cash becomes important. Protect your purchasing power by stashing small bills."
   sleeping_bag: "Sleeping bag or blankets"
@@ -180,7 +179,7 @@ en:
   personal_hygiene: "Personal hygiene & sanitation items"
   personal_hygiene_why: "Toilet paper, feminine supplies, hand sanitizer, a toothbrush, soap, unscented bleach, and heavy duty garbage bags are a good place to start."
   personal_documents: "Personal documents"
-  personal_documents_why: "Upload copies of your driver's license, passport, leases, titles, and contact list to the cloud. Protect your assets by going digital, or make photocopies."
+  personal_documents_why: "Upload copies of your driver's license, passport, leases, titles, and contact list to the cloud. Protect your assets, by going digital. Or make photocopies."
   childrens_toys: "Children's toys and games"
   childrens_toys_why: "What unique items would make your family feel better in an emergency? Favorite games? Special toys? Little things can make a big difference."
   pet_items: "Pet items"
