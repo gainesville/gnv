@@ -210,11 +210,10 @@ en:
   # : ""
   # : ""
 
-  #CITY STATEMENT
-  our_city: "Our city."
-  city_statement: "The city of Gainesville – designed with you in mind. Our city’s purpose is its people."
-  we_believe: "We believe in connection by putting the citizen at the center."
-
+  #COMMUNITY STATEMENT
+  our_city: "Our family."
+  city_statement: "San José Firefighters are dedicated to protecting the community and being the leaders in resilience."
+  we_believe: "We believe in connection, not catastrophe."
 
   #===========================#
   #Make a Plan Page
@@ -323,7 +322,7 @@ en:
   #===========================#
   #Footer Text
   #===========================#
-  footer_text: "Brought to you by the City of Gainesville, in partnership with the people of Gainesville."
+  footer_text: "Brought to you by ..."
   find_out_more: "Find out more"
   about_us: "About Us"
   contact_us: "Contact Us"
