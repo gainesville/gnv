@@ -72,11 +72,16 @@ en:
   use_twitter_emergency_html: 'Post about yourself and your area. Use #Ready96 to connect related tweets.'
   twitter_tag: "Ready96"
 
+  #PulsePoint
+  use_pulse: "Use PulsePoint to respond locally"
+  use_pulse_now_html: "Download %{pulse_link} and sign up to be notified of incidents near you."
+  use_pulse_emergency: "Stay tuned with local alerts---know what's going on and help respond to incidents in your area."
+  pulse_link: "PulsePoint apps"
 
 
   #Cloud Service
   use_cloud: "Save documents to a cloud service"
-  use_cloud_now: "Scan personal documents like your driver’s license, passport, and birth certificate. Save digital copies on Dropbox, Box, or another cloud service."
+  use_cloud_now: "Scan personal documents like your driver’s license, passport, and birth certificate. Save digital copies on Dropbox, Google Drive, or another cloud service."
   use_cloud_emergency: "Access your documents remotely in case you can't access originals. Know that there is a safe copy in the cloud."
   #Nextdoor
   use_nextdoor: "Meet your neighbors on Nextdoor"
@@ -86,15 +91,15 @@ en:
   # use_airbnb: "Sign up for Airbnb"
   # use_airbnb_now: "Create an AirBnB proﬁle so you are ready to ﬁnd or share a place to stay if anything happens."
   # use_airbnb_emergency: "Find a place to stay, or share your place with those in need."
-  #311
-  use_311: "Make the city better with 311GNV"
-  three_link: "311GNV"
-  use_311_now_html: "Start using %{three_link} now to help make Gainesville better by reporting issues such as potholes or damaged street signs."
-  use_311_emergency: "Help the city learn about and respond to needed repairs faster than would be possible without your help."
+  # #311
+  # use_311: "Make the city better with 311GNV"
+  # three_link: "311GNV"
+  # use_311_now_html: "Start using %{three_link} now to help make Gainesville better by reporting issues such as potholes or damaged street signs."
+  # use_311_emergency: "Help the city learn about and respond to needed repairs faster than would be possible without your help."
   #Text Updates
-  use_txt_updates: "Sign up for updates from CodeRED"
-  why_txt_updates: "Connect your phone to Alachua County CodeRED."
-  txt_updates_emergency: "Get official alerts as soon as they are sent out."
+  # use_txt_updates: "Sign up for updates from CodeRED"
+  # why_txt_updates: "Connect your phone to Alachua County CodeRED."
+  # txt_updates_emergency: "Get official alerts as soon as they are sent out."
 
   #Neighborhood Networks Section
   use_local_networks: "Connect through your local networks."
@@ -111,15 +116,12 @@ en:
   #Partners Section
   learn_from_partners: "Learn more from our partners."
   connect_with_organizations: "To get even better prepared and stay informed as a household, neighborhood, or community, connect with these organizations."
-  #partner 1: American Red Cross local chapter
-  partner1: "American Red Cross"
-  partner1_description: "provides a variety of trainings including first aid, CPR, and how to prepare for emergencies."
-  #partner 2:
-  partner2: "Alachua SERT"
-  partner2_description: "offers resources that teach you how to prepare, organize, and create an emergency response plan."
-  #partner 3:
-  partner3: "Alachua County CERT"
-  partner3_description: "teaches residents how to care for themselves, their families, and their neighbors in an emergency."
+  partner1: "The FEMA Ready Responder Toolkit"
+  partner1_description: "provides emergency response agencies with a series of planning tools to help prepare their personnel and their families for emergencies."
+  partner2: "American Red Cross"
+  partner2_description: "provides a variety of trainings including first aid, CPR, and how to prepare for emergencies."
+  partner3: "AlertSCC"
+  partner3_description: "is a free, easy, and confidential way for anyone who lives or works in Santa Clara County to get emergency warnings sent directly to their cell phone, mobile device, email, or landline."
 
 
   #===========================#
