@@ -3,21 +3,21 @@ Included in this guide:
   * [Deploy on Heroku](#deploy-on-heroku)
   * [Development Environment Setup](#development-environment-setup)
 
-# About SafeGNV
+# About This Code Base
 
-**SafeGNV was derived from City72**. Visit SafeGNV at [safegnv.org](http://safegnv.org). For more information about the toolkit, visit [toolkit.sf72.org](http://toolkit.sf72.org). 
+**This codebase was derived from City72**. An example of a deployed site is [safegnv.org](http://safegnv.org). For more information about the toolkit, visit [toolkit.sf72.org](http://toolkit.sf72.org). 
 
-**Differences:**
+**Differences (Drift from City72):**
 
-• SafeGNV is set up so that all the text strings come from a locale file.
+• This codebase is set up so that all the text strings come from a locale file.
 
-• SafeGNV is less reliant on a content management system (CMS). Instead, you would customize the site by editing image files and the locale file. This difference affords translation of the SafeGNV version, if desired.
+• This site is less reliant on a content management system (CMS). Instead, you would customize the site by editing image files and the locale file. This difference affords translation and customization with a pretty basic knowledge of HTML and CSS (and lots of patience).
 
-• The Cloudinary add-on is not used on safeGNV. However, the add-on is still referenced in the code, in case you wish to enable the functionality. In other words, you do not need to pay for the premium add-on if you leave things as they are currently configured.
+• The Cloudinary add-on is not used. However, the add-on is still referenced in the code, in case you wish to enable the functionality. In other words, you do not need to pay for the premium add-on if you leave things as they are currently configured.
 
-• City72 currently assumes that the site you are creating is for a city. Since all of the text on SafeGNV is editable, SafeGNV could more readily be adapted for a county or other community.
+• City72 currently assumes that the site you are creating is for a city. Since all of the text here is editable, this codebase could more readily be adapted for a county, organization, or other community.
 
-• SafeGNV requires a little more technical know-how but offers much more flexibility in terms customization and localization. 
+• This codebase requires a little more technical know-how but offers much more flexibility in terms customization and localization. 
 
 
 ---
@@ -28,7 +28,7 @@ Deploying to Heroku is the quickest way to launch an instance this site that you
 
 1. [Fork this repository](https://github.com/gnv-org/gnv#fork-destination-box). 
 
-2. From your new GitHub repository, deploy to heroku:  
+2. From your new GitHub repository, press the button below to deploy to heroku:  
 
      [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
