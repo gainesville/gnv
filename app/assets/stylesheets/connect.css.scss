@@ -145,7 +145,7 @@
 
 .full-img-article {
 	@include row();
-	@include retina-image(/assets/static/connect-secondary, 1020px 401px, jpg);
+	@include retina-image(/assets/static/connect-secondary, 1020px 400px, jpg);
 	background-repeat: no-repeat;
 	padding: 0 30px;
 	text-shadow: 0 0 20px rgba(0, 0, 0, 1);
