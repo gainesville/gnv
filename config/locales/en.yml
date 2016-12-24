@@ -42,7 +42,7 @@ en:
   sup: "Gather Supplies"
   sup_explained: "Find out what’s essential, useful, and nice to have in an emergency. You probably already have many of the supplies you need."
   mp: "Make a Plan"
-  mp_explained: "Make a basic plan with your loved ones—so you know what to do in an emergency."
+  mp_explained: "Make a plan with your loved ones—so you know what to do in an emergency."
 
   #===========================#
   #Get Connected Page Strings
@@ -63,14 +63,27 @@ en:
   face_emergency: "Post your status to Facebook to let friends and family know you are ok."
   #Twitter
   use_twitter: "Check updates on Twitter"
-  use_twitter_now_html: "Add emergency accounts to your Twitter feed to stay informed. Some of our favorites:</br> %{twitter_fav_1}, %{twitter_fav_2}, %{twitter_fav_3}, %{twitter_fav_5}, and %{twitter_fav_4}."
-  twitter_fav_1: "@FLSERT"
-  twitter_fav_2: "@Alachua_Co_EM"
-  twitter_fav_3: "@GFR1882"
-  twitter_fav_5: "‎@GainesvillePD"
-  twitter_fav_4: "‎@GainesvilleGov"
+  use_twitter_now_html: "Add emergency accounts to your Twitter feed to stay informed. Some of our favorites:</br> %{twitter_fav_1}, %{twitter_fav_2}, %{twitter_fav_3}, %{twitter_fav_5}, %{twitter_fav_4}, %{twitter_fav_5}, %{twitter_fav_6}, %{twitter_fav_7}, and %{twitter_fav_8}."
+  twitter_fav_1: "@SCC_OES"
+  twitter_fav_2: "@SJFirefighters"
+  twitter_fav_3: "@SanJosePD"
+  twitter_fav_4: "‎@SJFD"
+  twitter_fav_5: "‎@511SFBay"
+  twitter_fav_6: "‎@USGS"
+  twitter_fav_7: "‎@VTA"
+  twitter_fav_8: "‎@CHPSanJose"
+
   use_twitter_emergency_html: 'Post about yourself and your area. Use #Ready96 to connect related tweets.'
   twitter_tag: "Ready96"
+
+# @SCC_OES
+# @SJFirefighters
+# @SanJosePD
+# @SJFD
+# @511SFBay
+# @USGS
+# @VTA
+# @CHPSanJose
 
   #PulsePoint
   use_pulse: "Use PulsePoint to respond locally"
