@@ -1,5 +1,5 @@
 Included in this guide:
-  * [About This Project](#about-safegnv)
+  * [About safeGNV](#about-safegnv)
   * [Deploy on Heroku](#deploy-on-heroku)
   * [Development Environment Setup](#development-environment-setup)
 
