@@ -126,8 +126,8 @@
 	// li.airbnb {
 	// 	@include icon(#FFF,3.2rem,$airbnb-icn,$highlight,0,0);
 	// }
-	li.three {
-		@include icon(#FFF,3.2rem,$three-icn,$highlight,0,0);
+	li.pulse {
+		@include icon(#FFF,3.2rem,$pulse-icn,$highlight,0,0);
 	}
 	li.twitter {
 		@include icon(#FFF,3.2rem,$twitter-icn,$highlight,0,0);
@@ -145,7 +145,7 @@
 
 .full-img-article {
 	@include row();
-	@include retina-image(/assets/static/connect-secondary, 1020px 401px, jpg);
+	@include retina-image(/assets/static/connect-secondary, 1020px 400px, jpg);
 	background-repeat: no-repeat;
 	padding: 0 30px;
 	text-shadow: 0 0 20px rgba(0, 0, 0, 1);

@@ -5,7 +5,9 @@ Included in this guide:
 
 # About This Code Base
 
-**This codebase was derived from City72**. An example of a deployed site is [safegnv.org](http://safegnv.org). For more information about the toolkit, visit [toolkit.sf72.org](http://toolkit.sf72.org).
+
+**This codebase was derived from City72**. An example of a deployed site is [safegnv.org](http://safegnv.org). For more information about the toolkit, visit [toolkit.sf72.org](http://toolkit.sf72.org). 
+
 
 **Differences (Drift from City72):**
 
@@ -17,7 +19,8 @@ Included in this guide:
 
 • City72 currently assumes that the site you are creating is for a city. Since all of the text here is editable, this codebase could more readily be adapted for a county, organization, or other community.
 
-• This codebase requires a little more technical know-how but offers much more flexibility in terms customization and localization.
+
+• This codebase requires a little more technical know-how but offers much more flexibility in terms customization and localization. 
 
 
 ---
@@ -28,7 +31,8 @@ Deploying to Heroku is the quickest way to launch an instance this site that you
 
 1. [Fork this repository](https://github.com/gnv-org/gnv#fork-destination-box).
 
-2. From your new GitHub repository, press the button below to deploy to heroku:
+
+2. From your new GitHub repository, press the button below to deploy to heroku:  
 
      [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
