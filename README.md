@@ -5,7 +5,9 @@ Included in this guide:
 
 # About This Code Base
 
+
 **This codebase was derived from City72**. An example of a deployed site is [safegnv.org](http://safegnv.org). For more information about the toolkit, visit [toolkit.sf72.org](http://toolkit.sf72.org). 
+
 
 **Differences (Drift from City72):**
 
@@ -17,6 +19,7 @@ Included in this guide:
 
 • City72 currently assumes that the site you are creating is for a city. Since all of the text here is editable, this codebase could more readily be adapted for a county, organization, or other community.
 
+
 • This codebase requires a little more technical know-how but offers much more flexibility in terms customization and localization. 
 
 
@@ -26,13 +29,14 @@ Included in this guide:
 
 Deploying to Heroku is the quickest way to launch an instance this site that you can adapt for your own community.
 
-1. [Fork this repository](https://github.com/gnv-org/gnv#fork-destination-box). 
+1. [Fork this repository](https://github.com/gnv-org/gnv#fork-destination-box).
+
 
 2. From your new GitHub repository, press the button below to deploy to heroku:  
 
      [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
-3. Name your app and give it a minute or two to deploy, you will then see a link to view it. If you don't have a Heroku account, you will be prompted to create one and verify your identity with a credit card. 
+3. Name your app and give it a minute or two to deploy, you will then see a link to view it. If you don't have a Heroku account, you will be prompted to create one and verify your identity with a credit card.
 
 ## Add-ons
 
@@ -50,8 +54,8 @@ During setup, you will be prompted to enter a `EMAIL_REDIRECT_HOST`, used within
 
 First, go to your Heroku account and create an application to be used for the project. When asked for the number of `web dynos` to be used in your application select `2`. There is a small monthly fee associated with having an extra dyno.
 
-For testing purposes, you can choose an application with no extra dynos (this will be free). Please note that **sites with no extra dynos "go to sleep"** and can be slow to wake up. So, when you are ready to let the public use your site, make sure that your Heroku appliation has at least `2 dynos`. 
-  
+For testing purposes, you can choose an application with no extra dynos (this will be free). Please note that **sites with no extra dynos "go to sleep"** and can be slow to wake up. So, when you are ready to let the public use your site, make sure that your Heroku appliation has at least `2 dynos`.
+
 ## FINAL STEP: Update your username and password via the Content Editor
 
 Your site was installed with a default username and password (these are set in the db/seeds.rb file). Go to your app and login
@@ -68,7 +72,7 @@ Once you login, use the Admin menu in the navigation to change the email to your
 
 
 ---
-  
+
 
 # Development Environment Setup
 
@@ -180,7 +184,7 @@ bundle exec rails s
 
 ## Open your application on Port 3000
 
-Go to your browser and open 
+Go to your browser and open
 
 ```sh
 localhost:3000
