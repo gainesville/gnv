@@ -1,4 +1,4 @@
-City72::Application.routes.draw do
+Ready96::Application.routes.draw do
   scope "(:locale)", locale: /vi|fi|zh|en|es/ do
     devise_scope :admin_user do
       get "/admin_users/sign_up", :to => "home#index"

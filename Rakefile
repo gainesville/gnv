@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-City72::Application.load_tasks
+Ready96::Application.load_tasks

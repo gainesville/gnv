@@ -6,7 +6,7 @@ Included in this guide:
 # About This Code Base
 
 
-**This codebase was derived from City72**. An example of a deployed site is [safegnv.org](http://safegnv.org). For more information about the toolkit, visit [toolkit.sf72.org](http://toolkit.sf72.org). 
+**This codebase was derived from City72**. An example of a deployed site is [safegnv.org](http://safegnv.org). For more information about the toolkit, visit [toolkit.sf72.org](http://toolkit.sf72.org).
 
 
 **Differences (Drift from City72):**
@@ -143,7 +143,7 @@ Clone the code to your computer.
 The command you type into your shell application (Terminal on the Mac) will be:
 
 ```sh
-$ git clone https://github.com/city72/city-72.git
+$ git clone https://github.com/96ready/ready96.git
 ```
 
 This will create a directory named `city-72`.
@@ -151,9 +151,9 @@ This will create a directory named `city-72`.
 ### Create the database user for the application
 
 ```sh
-createuser -P -s city72
+createuser -P -s ready96
 ```
-Assign the word *city72* as password too.
+Assign the word *ready96* as password too.
 
 Linux users should run the above command as postgres user (`sudo su postgres`).
 
