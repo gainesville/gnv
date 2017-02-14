@@ -606,7 +606,7 @@ $mobile-padding: 20px;
 			&.drive:before,
 			&.nextdoor:before,
 			&.airbnb:before,
-			&.three:before,
+			&.pulse:before,
 			&.txt_updates:before, {
 				font-size: 2rem;
 				width: 57px;
@@ -627,9 +627,9 @@ $mobile-padding: 20px;
 		.drive h3,
 		.nextdoor h3,
 		.airbnb h3,
-		.three h3,
+		.pulse h3,
 		.txt_updates h3 {
-			padding-top: 72px;
+			padding-top: 64px;
 		}
 
 		p {

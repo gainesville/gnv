@@ -17,3 +17,6 @@
 /public/uploads
 /public/assets
 config/database.yml
+
+# Ignore idea project files
+idea/*

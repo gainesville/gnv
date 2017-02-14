@@ -6,7 +6,7 @@
 development:
   adapter: postgresql
   encoding: unicode
-  database: city72_development
+  database: ready96_development
   pool: 5
   username: pg_dev
   password: pg_dev_password
@@ -18,17 +18,17 @@ development:
 test:
   adapter: postgresql
   encoding: unicode
-  database: city72_testing
+  database: ready96_testing
   pool: 5
-  username: city72
-  password: city72
+  username: ready96
+  password: ready96
   host: localhost
 
 production:
   adapter: postgresql
   encoding: unicode
-  database: city72_production
+  database: ready96_production
   pool: 5
-  username: city72
-  password: city72
+  username: ready96
+  password: ready96
   host: localhost

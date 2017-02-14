@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-City72::Application.config.secret_token = 'a3b980e6080375f83c1a7c42490ed5f6af027e1699a1dceb9b359aaccd826ce2f4d46ef8a35eb476ff9b02d54ae1a0020ac8effb0ca528c5512b29bebfdaa47b'
+Ready96::Application.config.secret_token = '4fa99d87cbf3ba511e2203ed6d1aae6ddd094c11fa9cc0f153ccecdabf3245dd3a059fdbe7c4c66b0228711d20791eb151a49ce53efecf58a085214fd3e5666a'
