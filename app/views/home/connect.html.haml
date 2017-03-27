@@ -47,24 +47,24 @@
           %strong
             =t(:now)
             <br/>
-          =t(:use_twitter_now_html, twitter_fav_1: link_to(t('twitter_fav_1'), 'https://twitter.com/FLSERT', target: :blank), twitter_fav_2: link_to(t('twitter_fav_2'), 'https://twitter.com/Alachua_Co_EM', target: :blank), twitter_fav_3: link_to(t('twitter_fav_3'), 'https://twitter.com/GFR1882', target: :blank), twitter_fav_5: link_to(t('twitter_fav_5'), 'https://twitter.com/GainesvillePD', target: :blank), twitter_fav_4: link_to(t('twitter_fav_4'), 'https://twitter.com/GainesvilleGov', target: :blank))
+          =t(:use_twitter_now_html, twitter_fav_1: link_to(t('twitter_fav_1'), 'https://twitter.com/scc_oes', target: :blank), twitter_fav_2: link_to(t('twitter_fav_2'), 'https://twitter.com/sjfirefighters', target: :blank), twitter_fav_3: link_to(t('twitter_fav_3'), 'https://twitter.com/SanJosePD', target: :blank), twitter_fav_4: link_to(t('twitter_fav_4'), 'https://twitter.com/SJFD', target: :blank), twitter_fav_5: link_to(t('twitter_fav_5'), 'https://twitter.com/511SFBay', target: :blank), twitter_fav_6: link_to(t('twitter_fav_6'), 'https://twitter.com/USGS', target: :blank), twitter_fav_7: link_to(t('twitter_fav_7'), 'https://twitter.com/VTA', target: :blank), twitter_fav_8: link_to(t('twitter_fav_8'), 'https://twitter.com/CHPSanJose', target: :blank))
         %p
           %strong
             =t(:in_an_emergency_heading)
           =t(:use_twitter_emergency_html, twitter_tag: link_to(t('twitter_tag'), 'https://twitter.com/search?f=tweets&q=%23safeGNV&src=typd', target: :blank))
 
-      %li.three
+      %li.pulse
         %h3
-          =t(:use_311)
+          =t(:use_pulse)
         %p
           %strong
             =t(:now)
-          =t(:use_311_now_html, three_link: link_to(t('three_link'), 'http://www.cityofgainesville.org/openGNV/311GNV.aspx', target: :blank))
+          =t(:use_pulse_now_html, pulse_link: link_to(t('pulse_link'), 'http://www.pulsepoint.org/download/', target: :blank))
         %p
           %strong
             =t(:in_an_emergency_heading)
             <br/>
-          =t(:use_311_emergency)
+          =t(:use_pulse_emergency)
 
 
       %li.drive
@@ -106,21 +106,21 @@
       -#       <br/>
       -#     =t(:use_airbnb_emergency)
 
-      %li.txt_updates
-        %h3
-          = t(:use_txt_updates)
-        %p.now
-          %strong
-            =t(:now)
-            <br/>
-          =t(:why_txt_updates)
-        %p
-          %strong
-            =t(:in_an_emergency_heading)
-            <br/>
-          =t(:txt_updates_emergency)
-        %a{:href => "http://public.coderedweb.com/cne/en-US/6EF661CA2EF3", :target => "_blank"}
-          =t(:start_now)
+      -# %li.txt_updates
+      -#   %h3
+      -#     = t(:use_txt_updates)
+      -#   %p.now
+      -#     %strong
+      -#       =t(:now)
+      -#       <br/>
+      -#     =t(:why_txt_updates)
+      -#   %p
+      -#     %strong
+      -#       =t(:in_an_emergency_heading)
+      -#       <br/>
+      -#     =t(:txt_updates_emergency)
+      -#   %a{:href => "http://public.coderedweb.com/cne/en-US/6EF661CA2EF3", :target => "_blank"}
+      -#     =t(:start_now)
 
 
   .full-img-article
@@ -158,27 +158,32 @@
 
     %ul
       %li
-        %img(src="/assets/static/partner-red-cross.png")
+        %img(src="/assets/static/partner-ready.jpg")
         %p
           %strong
             =t(:partner1)
           =t(:partner1_description)
-          %a{ :href => "http://www.redcross.org/fl/gainesville", :title => "www.redcross.org", :target => "_blank" }
-            </br> www.redcross.org
-      -# %li
-      -#   %img(src="/assets/static/partner-core.png")
-      -#   %p
-      -#     %strong
-      -#       =t(:partner2)
-      -#     =t(:partner2_description)
+          %a{ href: "http://www.ready.gov/responder", target: "_blank", title: "ready.gov/responders" }
+            %br
+              ready.gov/responders
       %li
-        %img(src="/assets/static/partner-cert.png")
+        %img(src="/assets/static/partner-red-cross.png")
+        %p
+          %strong
+            =t(:partner2)
+          =t(:partner2_description)
+          %a{ href: "http://www.redcross.org/local/ca/san-jose", target: "_blank", title: "American Red Cross Silicon Valley" }
+            %br
+              www.redcross.org
+      %li
+        %img(src="/assets/static/partner-alertscc.png")
         %p
           %strong
             =t(:partner3)
           =t(:partner3_description)
-          %a{ :href => "http://www.alachuacounty.us/depts/publicsafety/em/firststeps/beinvolved/pages/beinvolved.aspx", :title => "www.alachuacounty.us", :target => "_blank" }
-            </br> www.alachuacounty.us
+          %a{ href: "https://www.sccgov.org/sites/alertscc/Pages/home.aspx", target: "_blank", title: "AlertSCC" }
+            %br
+              www.sccgov.org
 
 
   = render :partial => "partials/footer"

@@ -5,7 +5,7 @@
 	@include row();
 	background-color: lighten( $light-grey, 5% );
 	padding: 20px 30px;
-	
+
 	.by-line {
 		@include span-columns(5);
 		font-family: $font-regular;
@@ -22,7 +22,7 @@
 
 	.by-line:before {
 		font-family: 'city72icons';
-		font-size: 2.7rem;
+		font-size: 2.25em;
 		content: 'y';
 		color: $mid-grey;
 		position: absolute;
